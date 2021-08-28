@@ -19,6 +19,8 @@ Data Processing,IBM Analytics, Business Intelligence
 **Technical Architecture**
 ![image](https://user-images.githubusercontent.com/66817759/131210999-086a3d84-0292-46e6-941c-628e594d84e7.png)
 
+**Links**
+
 Link to Data Module Used: [Data Modules Link🗄](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2Fdata%2Bmodule%2528updated%2529)
 
 Link to video Presentation : [Google Drive📽](https://drive.google.com/file/d/18fYawv4ABnanT6SKL82UMvMIQev2Jmg4/view?usp=sharing)
