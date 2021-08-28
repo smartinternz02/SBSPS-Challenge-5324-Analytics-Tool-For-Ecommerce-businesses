@@ -9,3 +9,8 @@ In this project we have created a Dashboard using IBM Cognos Analytics. We have 
   7. Yearly sales for various states.
   8. Forecasting future sales according to shipping date.
   9. Trend in profit/sales over time (years/months/quarters).
+
+**Category**: IBM Cloud Application
+
+**Skills Required**:
+IBM Cloud,IBM Watson
