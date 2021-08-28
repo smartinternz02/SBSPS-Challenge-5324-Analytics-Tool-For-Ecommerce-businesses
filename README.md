@@ -14,3 +14,6 @@ In this project we have created a Dashboard using IBM Cognos Analytics. We have 
 
 **Skills Required**:
 IBM Cloud,IBM Watson
+
+**Technical Architecture**
+![image](https://user-images.githubusercontent.com/66817759/131210999-086a3d84-0292-46e6-941c-628e594d84e7.png)
