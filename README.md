@@ -9,11 +9,12 @@ In this project we have created a Dashboard using IBM Cognos Analytics. We have 
   7. Yearly sales for various states.
   8. Forecasting future sales according to shipping date.
   9. Trend in profit/sales over time (years/months/quarters).
+  10. No of days taken by diffrent product categories to get delivered
 
-**Category**: IBM Cloud Application
+**Category**: IBM Cognos Analytics
 
 **Skills Required**:
-IBM Cloud,IBM Watson
+Data Processing,IBM Analytics, Business Intelligence
 
 **Technical Architecture**
 ![image](https://user-images.githubusercontent.com/66817759/131210999-086a3d84-0292-46e6-941c-628e594d84e7.png)
