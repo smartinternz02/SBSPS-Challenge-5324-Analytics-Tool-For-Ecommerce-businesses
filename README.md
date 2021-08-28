@@ -13,7 +13,7 @@ In this project we have created a Dashboard using IBM Cognos Analytics. We have 
 
 **Category**: IBM Cognos Analytics
 
-**Skills Required**:
+**Skills Used**:
 Data Processing,IBM Analytics, Business Intelligence
 
 **Technical Architecture**
