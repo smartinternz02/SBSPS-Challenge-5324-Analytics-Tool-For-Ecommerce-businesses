@@ -23,7 +23,7 @@ Data Processing,IBM Analytics, Business Intelligence
 
 Link to Data Module Used: [Data Modules Link🗄](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2Fdata%2Bmodule%2528updated%2529)
 
-Link to video Presentation : [Google Drive📽](https://drive.google.com/file/d/1SlhRcV9SAiKfjOlJp34axZtYMAYHwYwX/view?usp=sharing)
+Link to video Presentation : [Google Drive📽](https://drive.google.com/file/d/1SlhRcV9SAiKfjOlJp34axZtYMAYHwYwX/view)
 
 Link to Dashboard : [Dashboard🛹](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.public_folders%2FOur%2BExplorations%2Fdasboard&action=view&mode=dashboard&subView=model0000017b819eca82_00000002)
 
